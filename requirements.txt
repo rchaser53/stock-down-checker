@@ -1,2 +1,5 @@
-# Top-level runtime dependency for nyan.py
+# Top-level runtime dependencies for nyan.py
+openpyxl
+pandas
+xlrd
 yfinance
