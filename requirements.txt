@@ -1,0 +1,2 @@
+# Top-level runtime dependency for nyan.py
+yfinance
